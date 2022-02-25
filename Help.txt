@@ -1,0 +1,47 @@
+1. Setting up FRIDAYY
+
+
+   FRIDAYY have the ability to chat once installed by default. 
+   The User will then need to register at these following websites:
+   
+   1. https://newsapi.org/ : To integrate live news & updates. (Once registered, then they will provide you an API key.
+   Users should then copy the API key and paste it in the respective bars in the news API section.)
+   
+   2. https://openweathermap.org/ : To integrate live weather,temperature & other factors around you.(Once registered, then they will provide you an API key.
+   Users should then copy the API key and paste it in the respective bars in the weather API section.)
+   
+  
+   Only morning News will need your country location. So, Please enter your country's abbreviation. 
+   (India -in, United Kingdom - uk, United States - us, Canada -Can......)
+   
+   Weather will need your city location so please enter your city's name. 
+   ( Delhi, Dubai, New york, London, Singapore, Sydney)
+
+2. Commands to run FRIDAYY:
+   
+   Here is a sample list of available Commands:
+      #Hello
+   # How are you
+
+   # Are you fine
+
+   # Are you real
+
+   # What is the time
+
+   # News about [input] 
+    ( News about sports/health/corporate.... )
+
+   # Get me news headlines
+
+   # Send an email
+
+   # Wikipedia [input]
+      
+   # Who is [input] / What is [input]
+      
+   # Get me stock price for [input]
+      
+   # Goodbye
+      NOTE: Command to quit FRIDAYY.
+

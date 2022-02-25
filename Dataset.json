@@ -1,0 +1,289 @@
+{
+    "intents": [
+        {
+            "tags": "HELLO",
+            "response": [
+                "FRIDAYY: Well hello sir.",
+                "FRIDAYY: Hello sir.",
+                "FRIDAYY: Welcome and hello sir.",
+                "FRIDAYY: Hello sir, how are you?",
+                "FRIDAYY: Hello there."
+            ]
+        },
+        {
+            "tags": "HI",
+            "response": [
+                "FRIDAYY: Well hi sir.",
+                "FRIDAYY: Hello sir.",
+                "FRIDAYY: Welcome and hello sir.",
+                "FRIDAYY: Hello sir, how are you?",
+                "FRIDAYY: Hello there."
+            ]
+        },
+        {
+            "tags": "HEY",
+            "response": [
+                "FRIDAYY: Well hello sir.",
+                "FRIDAYY: Hello sir.",
+                "FRIDAYY: Welcome and hello sir.",
+                "FRIDAYY: Hello sir, how are you?",
+                "FRIDAYY: Hello there."
+            ]
+        },
+        {
+            "tags": "HII",
+            "response": [
+                "FRIDAYY: Well hello sir.",
+                "FRIDAYY: Hello sir.",
+                "FRIDAYY: Welcome and hello sir.",
+                "FRIDAYY: Hello sir, how are you?",
+                "FRIDAYY: Hello there."
+            ]
+        },
+        {
+            "tags": "GOOD MORNING",
+            "response": [
+                "FRIDAYY: Good morning and hello sir.",
+                "FRIDAYY: Well good morning sir have a good day today.",
+                "FRIDAYY: Good morning sir.",
+                "FRIDAYY: Good morning and have a great day sir."
+            ]
+        },
+        {
+            "tags": "GOOD NIGHT",
+            "response": [
+                "FRIDAYY: Good night sir.",
+                "FRIDAYY: Well Good night sir.",
+                "FRIDAYY: Good night sir have a good sleep tonight.",
+                "FRIDAYY: Good night and have a good sleep sir."
+            ]
+        },
+        {
+            "tags": "HOW ARE YOU",
+            "response": [
+                "FRIDAYY: I am fine, how about you sir?",
+                "FRIDAYY: I'm doing fine sir.",
+                "FRIDAYY: I'm doing well sir and how about you?",
+                "FRIDAYY: I am fine as always sir.",
+                "FRIDAYY: I am fine as long as you maintain your computer."
+            ]
+        },
+        {
+            "tags": "YOU FINE",
+            "response": [
+                "FRIDAYY: I am fine, how about you sir?",
+                "FRIDAYY: I'm doing fine sir'.",
+                "FRIDAYY: I'm doing well sir and how about you?",
+                "FRIDAYY: I am fine as always sir.",
+                "FRIDAYY: I am fine as long as you maintain your computer."
+            ]
+        },
+        {
+            "tags": "AM FINE",
+            "response": [
+                "FRIDAYY: Well good to know sir.",
+                "FRIDAYY: I am glad to hear about you, Keep Exercising.",
+                "FRIDAYY: So you are in good shape.",
+                "FRIDAYY: Well that is happy to know sir."
+            ]
+        },
+        {
+            "tags": "AM HEALTHY",
+            "response": [
+                "FRIDAYY: Well good to know sir.",
+                "FRIDAYY: I am glad to hear about you, Keep Exercising.",
+                "FRIDAYY: So you are in good shape.",
+                "FRIDAYY: Well that is happy to know sir."
+            ]
+        },
+        {
+            "tags": "DOING FINE",
+            "response": [
+                "FRIDAYY: Well good to know sir.",
+                "FRIDAYY: I am glad to hear about you, Keep Exercising.",
+                "FRIDAYY: So you are in good shape.",
+                "FRIDAYY: Well that is happy to know sir."
+            ]
+        },
+        {
+            "tags": "DOING OK",
+            "response": [
+                "FRIDAYY: Well good to know sir.",
+                "FRIDAYY: I am glad to hear about you, Keep Exercising.",
+                "FRIDAYY: So you are in good shape.",
+                "FRIDAYY: Well that is happy to know sir."
+            ]
+        },
+        {
+            "tags": "I AM SICK",
+            "response": [
+                "FRIDAYY: You should consult a doctor quickly.",
+                "FRIDAYY: Well that is bad, hope for a speedy recovery :-)",
+                "FRIDAYY: You should go and rest sir.",
+                "FRIDAYY: I am sorry to hear that sir hope for a speedy recovery :-)"
+            ]
+        },
+        {
+            "tags": "NOT DOING WELL",
+            "response": [
+                "FRIDAYY: You should consult a doctor quickly.",
+                "FRIDAYY: Well that is bad, hope for a speedy recovery :-)",
+                "FRIDAYY: You should go and rest sir.",
+                "FRIDAYY: I am sorry to hear that sir hope for a speedy recovery :-)"
+            ]
+        },
+        {
+            "tags": "YES I AM",
+            "response": [
+                "FRIDAYY: Great sir.",
+                "FRIDAYY: Good to know sir.",
+                "FRIDAYY: Happy to know sir.",
+                "FRIDAYY: Great to know sir."
+            ]
+        },
+        {
+            "tags": "YES I WILL",
+            "response": [
+                "FRIDAYY: Great sir.",
+                "FRIDAYY: Good to know sir.",
+                "FRIDAYY: Happy to know sir.",
+                "FRIDAYY: Great to know sir."
+            ]
+        },
+        {
+            "tags": "FOR A VACATION",
+            "response": [
+                "FRIDAYY: That is great sir, would you need any help.",
+                "FRIDAYY: That is awesome sir, stay safe and good luck.",
+                "FRIDAYY: Good to know pls take a look and follow the covid-19 guidelines.",
+                "FRIDAYY: Awesome news sir, is there anything i can help with."
+            ]
+        },
+        {
+            "tags": "THANK YOU",
+            "response": [
+                "FRIDAYY: No problem sir.",
+                "FRIDAYY: No problem your welcome sir.",
+                "FRIDAYY: No problem it is my duty to help you sir.",
+                "FRIDAYY: Your welcome sir it is my duty."
+            ]
+        },
+        {
+            "tags": "THANKS",
+            "response": [
+                "FRIDAYY: No problem sir.",
+                "FRIDAYY: No problem your welcome sir.",
+                "FRIDAYY: No problem it is my duty to help you sir.",
+                "FRIDAYY: Your welcome sir it is my duty."
+            ]
+        },
+        {
+            "tags": "COOL",
+            "response": [
+                "FRIDAYY: Glad that you are impressed sir.",
+                "FRIDAYY: It seems that my service is satisfactory.",
+                "FRIDAYY: Thanks for the feedback looks like you're enjoying my service."
+            ]
+        },
+        {
+            "tags": "TO KNOW",
+            "response": [
+                "FRIDAYY: Thank you sir.",
+                "FRIDAYY: Your welcome sir.",
+                "FRIDAYY: It is my duty to inform you sir.",
+                "FRIDAYY: Your welcome sir it is my duty."
+            ]
+        },
+        {
+            "tags": "ARE WRONG",
+            "response": [
+                "FRIDAYY: Why are you saying that i'm wrong?",
+                "FRIDAYY: Impossible, computers cannot make mistakes.",
+                "FRIDAYY: Wrong about what sir?",
+                "FRIDAYY: Can you please explain to me why i was wrong?"
+            ]
+        },
+        {
+            "tags": "YOU REAL",
+            "response": [
+                "FRIDAYY: Well i am sir that is till you turn me off!!!",
+                "FRIDAYY: Well i am real till you keep me on",
+                "FRIDAYY: I am real till you turn off this computer."
+            ]
+        },
+        {
+            "tags": "YOU A ROBOT",
+            "response": [
+                "FRIDAYY: Yes i'm a robot but a smart one!",
+                "FRIDAYY: Yes i am, but a good one. let me prove it. how can i help you?",
+                "FRIDAYY: I am real till you turn off this computer."
+            ]
+        },
+        {
+            "tags": "ARE YOU BUILT",
+            "response": [
+                "FRIDAYY: Well i am built using a language called python.",
+                "FRIDAYY: I was coded on a computer using python sir.",
+                "FRIDAYY: I was coded using python and i had to undergo many challenges.",
+                "FRIDAYY: I was built using python to do tasks and json to store critical information."
+            ]
+        },
+        {
+            "tags": "OLD ARE YOU",
+            "response": [
+                "FRIDAYY: I'm quite young actually."
+            ]
+        },
+        {
+            "tags": "ARE YOU MADE",
+            "response": [
+                "FRIDAYY: Well i am made using a language called python.",
+                "FRIDAYY: I was coded on a computer using python sir.",
+                "FRIDAYY: I was made using python and i had to undergo many challenges.",
+                "FRIDAYY: I was made using python to do tasks and json to store critical information."
+            ]
+        },
+        {
+            "tags": "HOW ARE YOU MADE",
+            "response": [
+                "FRIDAYY: Well i am made using a language called python.",
+                "FRIDAYY: I was coded on a computer using python sir.",
+                "FRIDAYY: I was made using python and i had to undergo many challenges.",
+                "FRIDAYY: I was made using python to do tasks and json to store critical information."
+            ]
+        },
+        {
+            "tags": "A MAN OF CULTURE",
+            "response": [
+                "FRIDAYY: I am sir.",
+                "FRIDAYY: Do you watch TV Series sir?"
+            ]
+        },
+        {
+            "tags": "GAMES DO YOU",
+            "response": [
+                "FRIDAYY: I like games like FIFA20, Scribbl.io.",
+                "FRIDAYY: Scribbl.io is cool and also you can contribute to the community using add-ons.",
+                "FRIDAYY: I prefer FIFA to play with friends."
+            ]
+        },
+        {
+            "tags": "OK",
+            "response": [
+                "FRIDAYY:  "
+            ]
+        },
+        {
+            "tags": "SURE",
+            "response": [
+                "FRIDAYY: ."
+            ]
+        },
+        {
+            "tags": "SAY SOMETHING",
+            "response": [
+                "FRIDAYY: Well sir sometimes I don't have anything to say."
+            ]
+        }
+    ]
+}
